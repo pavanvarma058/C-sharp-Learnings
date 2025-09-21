@@ -1,0 +1,8 @@
+D:\C#-Learnings\03-Conversions\bin\Debug\03-Conversions.exe.config
+D:\C#-Learnings\03-Conversions\bin\Debug\03-Conversions.exe
+D:\C#-Learnings\03-Conversions\bin\Debug\03-Conversions.pdb
+D:\C#-Learnings\03-Conversions\obj\Debug\03-Conversions.csproj.AssemblyReference.cache
+D:\C#-Learnings\03-Conversions\obj\Debug\03-Conversions.csproj.CoreCompileInputs.cache
+D:\C#-Learnings\03-Conversions\obj\Debug\03-Conversions.exe
+D:\C#-Learnings\03-Conversions\obj\Debug\03-Conversions.pdb
+D:\C#-Learnings\03-Conversions\obj\Debug\03-Conversions.exe.config
