@@ -1,0 +1,8 @@
+D:\C#-Learnings\04-Operators\bin\Debug\04-Operators.exe.config
+D:\C#-Learnings\04-Operators\bin\Debug\04-Operators.exe
+D:\C#-Learnings\04-Operators\bin\Debug\04-Operators.pdb
+D:\C#-Learnings\04-Operators\obj\Debug\04-Operators.csproj.AssemblyReference.cache
+D:\C#-Learnings\04-Operators\obj\Debug\04-Operators.csproj.CoreCompileInputs.cache
+D:\C#-Learnings\04-Operators\obj\Debug\04-Operators.exe
+D:\C#-Learnings\04-Operators\obj\Debug\04-Operators.pdb
+D:\C#-Learnings\04-Operators\obj\Debug\04-Operators.exe.config
