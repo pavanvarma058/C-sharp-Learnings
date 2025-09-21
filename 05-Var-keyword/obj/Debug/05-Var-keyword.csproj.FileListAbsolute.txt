@@ -1,0 +1,7 @@
+D:\C#-Learnings\05-Var-keyword\bin\Debug\05-Var-keyword.exe.config
+D:\C#-Learnings\05-Var-keyword\bin\Debug\05-Var-keyword.exe
+D:\C#-Learnings\05-Var-keyword\bin\Debug\05-Var-keyword.pdb
+D:\C#-Learnings\05-Var-keyword\obj\Debug\05-Var-keyword.csproj.AssemblyReference.cache
+D:\C#-Learnings\05-Var-keyword\obj\Debug\05-Var-keyword.csproj.CoreCompileInputs.cache
+D:\C#-Learnings\05-Var-keyword\obj\Debug\05-Var-keyword.exe
+D:\C#-Learnings\05-Var-keyword\obj\Debug\05-Var-keyword.pdb
