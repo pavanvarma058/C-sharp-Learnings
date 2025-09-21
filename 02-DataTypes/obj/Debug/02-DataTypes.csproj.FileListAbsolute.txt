@@ -1,0 +1,8 @@
+D:\C#-Learnings\02-DataTypes\bin\Debug\02-DataTypes.exe.config
+D:\C#-Learnings\02-DataTypes\bin\Debug\02-DataTypes.exe
+D:\C#-Learnings\02-DataTypes\bin\Debug\02-DataTypes.pdb
+D:\C#-Learnings\02-DataTypes\obj\Debug\02-DataTypes.csproj.AssemblyReference.cache
+D:\C#-Learnings\02-DataTypes\obj\Debug\02-DataTypes.csproj.CoreCompileInputs.cache
+D:\C#-Learnings\02-DataTypes\obj\Debug\02-DataTypes.exe
+D:\C#-Learnings\02-DataTypes\obj\Debug\02-DataTypes.pdb
+D:\C#-Learnings\02-DataTypes\obj\Debug\02-DataTypes.exe.config
