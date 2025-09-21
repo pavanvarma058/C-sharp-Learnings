@@ -1,0 +1,7 @@
+D:\C#-Learnings\My-Learnings\bin\Debug\My-Learnings.exe.config
+D:\C#-Learnings\My-Learnings\bin\Debug\My-Learnings.exe
+D:\C#-Learnings\My-Learnings\bin\Debug\My-Learnings.pdb
+D:\C#-Learnings\My-Learnings\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+D:\C#-Learnings\My-Learnings\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+D:\C#-Learnings\My-Learnings\obj\Debug\My-Learnings.exe
+D:\C#-Learnings\My-Learnings\obj\Debug\My-Learnings.pdb
