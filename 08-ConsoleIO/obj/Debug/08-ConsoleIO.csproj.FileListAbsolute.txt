@@ -1,0 +1,8 @@
+D:\C#-Learnings\08-ConsoleIO\bin\Debug\08-ConsoleIO.exe.config
+D:\C#-Learnings\08-ConsoleIO\bin\Debug\08-ConsoleIO.exe
+D:\C#-Learnings\08-ConsoleIO\bin\Debug\08-ConsoleIO.pdb
+D:\C#-Learnings\08-ConsoleIO\obj\Debug\08-ConsoleIO.csproj.AssemblyReference.cache
+D:\C#-Learnings\08-ConsoleIO\obj\Debug\08-ConsoleIO.csproj.CoreCompileInputs.cache
+D:\C#-Learnings\08-ConsoleIO\obj\Debug\08-ConsoleIO.exe
+D:\C#-Learnings\08-ConsoleIO\obj\Debug\08-ConsoleIO.pdb
+D:\C#-Learnings\08-ConsoleIO\obj\Debug\08-ConsoleIO.exe.config
