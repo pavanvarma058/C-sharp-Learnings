@@ -1,0 +1,8 @@
+D:\C#-Learnings\10-Loops\bin\Debug\10-Loops.exe.config
+D:\C#-Learnings\10-Loops\bin\Debug\10-Loops.exe
+D:\C#-Learnings\10-Loops\bin\Debug\10-Loops.pdb
+D:\C#-Learnings\10-Loops\obj\Debug\10-Loops.csproj.AssemblyReference.cache
+D:\C#-Learnings\10-Loops\obj\Debug\10-Loops.csproj.CoreCompileInputs.cache
+D:\C#-Learnings\10-Loops\obj\Debug\10-Loops.exe
+D:\C#-Learnings\10-Loops\obj\Debug\10-Loops.pdb
+D:\C#-Learnings\10-Loops\obj\Debug\10-Loops.exe.config
