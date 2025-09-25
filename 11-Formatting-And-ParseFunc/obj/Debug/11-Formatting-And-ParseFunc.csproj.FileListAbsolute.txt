@@ -1,0 +1,8 @@
+D:\C#-Learnings\11-Formatting-And-ParseFunc\bin\Debug\11-Formatting-And-ParseFunc.exe.config
+D:\C#-Learnings\11-Formatting-And-ParseFunc\bin\Debug\11-Formatting-And-ParseFunc.exe
+D:\C#-Learnings\11-Formatting-And-ParseFunc\bin\Debug\11-Formatting-And-ParseFunc.pdb
+D:\C#-Learnings\11-Formatting-And-ParseFunc\obj\Debug\11-Formatting-And-ParseFunc.csproj.AssemblyReference.cache
+D:\C#-Learnings\11-Formatting-And-ParseFunc\obj\Debug\11-Formatting-And-ParseFunc.csproj.CoreCompileInputs.cache
+D:\C#-Learnings\11-Formatting-And-ParseFunc\obj\Debug\11-Formatting-And-ParseFunc.exe
+D:\C#-Learnings\11-Formatting-And-ParseFunc\obj\Debug\11-Formatting-And-ParseFunc.pdb
+D:\C#-Learnings\11-Formatting-And-ParseFunc\obj\Debug\11-Formatting-And-ParseFunc.exe.config
