@@ -1,0 +1,8 @@
+D:\C#-Learnings\14-Exercise-3\bin\Debug\14-Exercise-3.exe.config
+D:\C#-Learnings\14-Exercise-3\bin\Debug\14-Exercise-3.exe
+D:\C#-Learnings\14-Exercise-3\bin\Debug\14-Exercise-3.pdb
+D:\C#-Learnings\14-Exercise-3\obj\Debug\14-Exercise-3.csproj.AssemblyReference.cache
+D:\C#-Learnings\14-Exercise-3\obj\Debug\14-Exercise-3.csproj.CoreCompileInputs.cache
+D:\C#-Learnings\14-Exercise-3\obj\Debug\14-Exercise-3.exe
+D:\C#-Learnings\14-Exercise-3\obj\Debug\14-Exercise-3.pdb
+D:\C#-Learnings\14-Exercise-3\obj\Debug\14-Exercise-3.exe.config
