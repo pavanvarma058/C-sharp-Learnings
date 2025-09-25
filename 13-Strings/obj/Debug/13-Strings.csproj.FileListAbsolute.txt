@@ -1,0 +1,8 @@
+D:\C#-Learnings\13-Strings\bin\Debug\13-Strings.exe.config
+D:\C#-Learnings\13-Strings\bin\Debug\13-Strings.exe
+D:\C#-Learnings\13-Strings\bin\Debug\13-Strings.pdb
+D:\C#-Learnings\13-Strings\obj\Debug\13-Strings.csproj.AssemblyReference.cache
+D:\C#-Learnings\13-Strings\obj\Debug\13-Strings.csproj.CoreCompileInputs.cache
+D:\C#-Learnings\13-Strings\obj\Debug\13-Strings.exe
+D:\C#-Learnings\13-Strings\obj\Debug\13-Strings.pdb
+D:\C#-Learnings\13-Strings\obj\Debug\13-Strings.exe.config
