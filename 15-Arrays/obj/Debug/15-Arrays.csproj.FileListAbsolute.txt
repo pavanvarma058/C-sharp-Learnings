@@ -1,0 +1,8 @@
+D:\C#-Learnings\15-Arrays\bin\Debug\15-Arrays.exe.config
+D:\C#-Learnings\15-Arrays\bin\Debug\15-Arrays.exe
+D:\C#-Learnings\15-Arrays\bin\Debug\15-Arrays.pdb
+D:\C#-Learnings\15-Arrays\obj\Debug\15-Arrays.csproj.AssemblyReference.cache
+D:\C#-Learnings\15-Arrays\obj\Debug\15-Arrays.csproj.CoreCompileInputs.cache
+D:\C#-Learnings\15-Arrays\obj\Debug\15-Arrays.exe
+D:\C#-Learnings\15-Arrays\obj\Debug\15-Arrays.pdb
+D:\C#-Learnings\15-Arrays\obj\Debug\15-Arrays.exe.config
