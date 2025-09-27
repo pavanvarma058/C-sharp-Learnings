@@ -1,0 +1,8 @@
+D:\C#-Learnings\17-Dictionary\bin\Debug\17-Dictionary.exe.config
+D:\C#-Learnings\17-Dictionary\bin\Debug\17-Dictionary.exe
+D:\C#-Learnings\17-Dictionary\bin\Debug\17-Dictionary.pdb
+D:\C#-Learnings\17-Dictionary\obj\Debug\17-Dictionary.csproj.AssemblyReference.cache
+D:\C#-Learnings\17-Dictionary\obj\Debug\17-Dictionary.csproj.CoreCompileInputs.cache
+D:\C#-Learnings\17-Dictionary\obj\Debug\17-Dictionary.exe
+D:\C#-Learnings\17-Dictionary\obj\Debug\17-Dictionary.pdb
+D:\C#-Learnings\17-Dictionary\obj\Debug\17-Dictionary.exe.config
