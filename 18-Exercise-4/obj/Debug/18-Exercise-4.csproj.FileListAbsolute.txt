@@ -1,0 +1,8 @@
+D:\C#-Learnings\18-Exercise-4\bin\Debug\18-Exercise-4.exe.config
+D:\C#-Learnings\18-Exercise-4\bin\Debug\18-Exercise-4.exe
+D:\C#-Learnings\18-Exercise-4\bin\Debug\18-Exercise-4.pdb
+D:\C#-Learnings\18-Exercise-4\obj\Debug\18-Exercise-4.csproj.AssemblyReference.cache
+D:\C#-Learnings\18-Exercise-4\obj\Debug\18-Exercise-4.csproj.CoreCompileInputs.cache
+D:\C#-Learnings\18-Exercise-4\obj\Debug\18-Exercise-4.exe
+D:\C#-Learnings\18-Exercise-4\obj\Debug\18-Exercise-4.pdb
+D:\C#-Learnings\18-Exercise-4\obj\Debug\18-Exercise-4.exe.config
