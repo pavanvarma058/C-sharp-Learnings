@@ -53,6 +53,7 @@ namespace _15_Arrays
             Console.WriteLine(sum == 180 ? "Valid" : "Invalid");
             */
 
+            /*
             // Array Sorting
             int[] arr = new int[]{
                 5, 3, 8, 2, 1, 0, 4, 7, 9, 6 };
@@ -85,6 +86,25 @@ namespace _15_Arrays
                 Console.Write(n + " ");
             }
             Console.WriteLine();
+            */
+
+            // Array IndexOf
+            int[] numbers = new int[] { 25, 28, 3, 39, 4, 58, 90, 100, 0 };
+
+            Console.Write("Enter a number to search: ");
+            int search = Convert.ToInt32(Console.ReadLine());
+
+            //int position = Array.IndexOf(numbers, search);
+            //int position = Array.IndexOf(numbers, search, 2); // start from index 2
+            int position = Array.IndexOf(numbers, search, 0, 5); // start from index 0, search in first 5 elements
+
+            if (position >= 0) {
+                Console.WriteLine($"Number {search} has been found at position {position + 1}");
+            }
+            else
+            {
+                Console.WriteLine($"Number {search} has not been found!!");
+            }
 
             Console.ReadLine();
 
