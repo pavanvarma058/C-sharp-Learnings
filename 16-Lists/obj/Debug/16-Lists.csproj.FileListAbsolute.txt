@@ -1,0 +1,8 @@
+D:\C#-Learnings\16-Lists\bin\Debug\16-Lists.exe.config
+D:\C#-Learnings\16-Lists\bin\Debug\16-Lists.exe
+D:\C#-Learnings\16-Lists\bin\Debug\16-Lists.pdb
+D:\C#-Learnings\16-Lists\obj\Debug\16-Lists.csproj.AssemblyReference.cache
+D:\C#-Learnings\16-Lists\obj\Debug\16-Lists.csproj.CoreCompileInputs.cache
+D:\C#-Learnings\16-Lists\obj\Debug\16-Lists.exe
+D:\C#-Learnings\16-Lists\obj\Debug\16-Lists.pdb
+D:\C#-Learnings\16-Lists\obj\Debug\16-Lists.exe.config

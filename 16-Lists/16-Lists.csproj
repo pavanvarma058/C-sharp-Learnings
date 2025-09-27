@@ -7,7 +7,7 @@
     <ProjectGuid>{D221A9F5-82C1-4712-B8AE-13625F1571F4}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_16_Lists</RootNamespace>
-    <AssemblyName>_16_Lists</AssemblyName>
+    <AssemblyName>16-Lists</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
