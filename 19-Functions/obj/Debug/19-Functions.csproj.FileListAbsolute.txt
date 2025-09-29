@@ -1,0 +1,8 @@
+D:\C#-Learnings\19-Functions\bin\Debug\19-Functions.exe.config
+D:\C#-Learnings\19-Functions\bin\Debug\19-Functions.exe
+D:\C#-Learnings\19-Functions\bin\Debug\19-Functions.pdb
+D:\C#-Learnings\19-Functions\obj\Debug\19-Functions.csproj.AssemblyReference.cache
+D:\C#-Learnings\19-Functions\obj\Debug\19-Functions.csproj.CoreCompileInputs.cache
+D:\C#-Learnings\19-Functions\obj\Debug\19-Functions.exe
+D:\C#-Learnings\19-Functions\obj\Debug\19-Functions.pdb
+D:\C#-Learnings\19-Functions\obj\Debug\19-Functions.exe.config
