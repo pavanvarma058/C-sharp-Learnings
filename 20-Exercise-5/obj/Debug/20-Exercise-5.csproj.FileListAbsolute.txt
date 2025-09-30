@@ -1,0 +1,8 @@
+D:\C#-Learnings\20-Exercise-5\bin\Debug\20-Exercise-5.exe.config
+D:\C#-Learnings\20-Exercise-5\bin\Debug\20-Exercise-5.exe
+D:\C#-Learnings\20-Exercise-5\bin\Debug\20-Exercise-5.pdb
+D:\C#-Learnings\20-Exercise-5\obj\Debug\20-Exercise-5.csproj.AssemblyReference.cache
+D:\C#-Learnings\20-Exercise-5\obj\Debug\20-Exercise-5.csproj.CoreCompileInputs.cache
+D:\C#-Learnings\20-Exercise-5\obj\Debug\20-Exercise-5.exe
+D:\C#-Learnings\20-Exercise-5\obj\Debug\20-Exercise-5.pdb
+D:\C#-Learnings\20-Exercise-5\obj\Debug\20-Exercise-5.exe.config
